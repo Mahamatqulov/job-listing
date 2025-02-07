@@ -245,7 +245,7 @@ function JobCard({
               </span>
             )}
             {isFeatured && (
-              <span className="px-3 py-1 text-sm font-semibold rounded-full bg-gray-800 text-white">
+              <span className="px-3 py-1 text-sm font-semibold rounded-full bg-gray-900 text-white">
                 FEATURED
               </span>
             )}
