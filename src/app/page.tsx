@@ -403,7 +403,7 @@ function JobCard({
       {isFeatured && (
         <div className="absolute left-0 top-0 h-full w-2 rounded-l-lg bg-teal-500" />
       )}
-      <div className="h-[80px] w-[80px] flex-shrink-0">
+      <div className="h-[81px] w-[81px] flex-shrink-0">
         <img
           src={logo || "/placeholder.svg"}
           alt={company}
