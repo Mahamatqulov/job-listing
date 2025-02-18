@@ -68,7 +68,7 @@ export default function JobBoard() {
               ))}
             </div>
             <button
-              className="px-4 py-2 text-sm font-semibold rounded bg-gray-200 hover:bg-gray-300"
+              className="px-4 py-2 text-sm font-semibold rounded bg-gray-300 hover:bg-gray-400"
               onClick={clearFilters}
             >
               Clear
